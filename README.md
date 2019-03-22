@@ -1,4 +1,4 @@
-# go_thread_pool_demo
+# go_resource_pool_demo
 
 Simple example of GO resource pool implementation
 
